@@ -1,0 +1,5 @@
+colorama
+discord
+Webhook
+RequestsWebhookAdapter
+requests
